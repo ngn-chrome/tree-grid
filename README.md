@@ -1,6 +1,6 @@
-# ngn-tree
+# tree-grid
 
-NGN Tree is a treegrid web component. This tag provides the shell of the the tree.
+The NGN Tree is a treegrid web component.
 
 ### Attributes
 
