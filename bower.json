@@ -1,0 +1,29 @@
+{
+  "name": "tree-grid",
+  "version": "0.0.1",
+  "authors": [
+    "coreybutler <=corey@coreybutler.com>"
+  ],
+  "description": "A tree grid web component.",
+  "main": "tree-grid.html",
+  "keywords": [
+    "tree",
+    "grid",
+    "item"
+  ],
+  "license": "Apache2",
+  "homepage": "https://github.com/ngn-chrome/tree-grid/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests",
+    ".bowerrc"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.4.0 <1.0.0",
+    "polymer-test-tools": "Polymer/polymer-test-tools#>=0.4.0 <1.0.0"
+  }
+}
