@@ -1,6 +1,6 @@
 # tree-grid
 
-The NGN Tree is a treegrid web component.
+A treegrid web component.
 
 ### Attributes
 
